@@ -3,6 +3,7 @@
 ## 目前将一直重点更新维护react版本的，此版本注重性能和代码质量，完成度更高，更用心地去写，有兴趣的同学请移步 -> [react版本](https://github.com/aermin/react-chat)
 
 
+
 ## 线上地址
 
 [点击加入线上聊天](https://im.aermin.top)
@@ -218,3 +219,5 @@ npm run dev
 
 [MIT](http://opensource.org/licenses/MIT)
 
+
+项目是转载的
